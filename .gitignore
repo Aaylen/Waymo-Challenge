@@ -2,3 +2,4 @@ token1.json
 token.json
 client_secrets.json
 cacert.pem
+*.h5
